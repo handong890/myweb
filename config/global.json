@@ -3,6 +3,23 @@
     "applicationId": "6o54wcsxgt3srwldw1c7p0zhxz0fmvcfbr53k6ocu26wyuu4",
     "applicationKey": "kllod6rj4xrlku5c4bklry6eh6dwt4ptjio9zu0l6pmz2vof",
     "global": {
-        "avVersion": "0.3.1"
-    }
+        "avVersion": "0.3.1",
+        "express": "latest",
+        "ejs": "latest",
+        "body-parser": "latest",
+        "cookie-parser": "latest",
+        "serve-favicon": "latest",
+        "morgan": "latest",
+        "method-override": "latest",
+        "express-session": "latest",
+        "multer": "latest",
+        "errorhandler": "latest",
+        "qiniu": "latest",
+        "socket.io": "latest",
+        "avoscloud-sdk":"latest",
+        "node-uuid":"latest"
+    },
+	"engines": {
+		"node": "latest"
+	}
 }
