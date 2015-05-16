@@ -1,1 +1,1 @@
-Cloud code project for coolweb. Cloud Code Guide: https://cn.avoscloud.com/docs/cloud_code_guide.html
+This is my nodejs  demo project
