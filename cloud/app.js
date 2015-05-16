@@ -6,6 +6,6 @@ app.set('views','cloud/views');
 app.set('view engine', 'ejs');
 app.use(express.bodyParser());
 
-require('./routes/indexRoute')(app);
+require('cloud/routes/indexRoute')(app);
 
 app.listen();
